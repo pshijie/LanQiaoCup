@@ -3,12 +3,12 @@ import java.util.Scanner;
 /**
  * @author psj
  * @date 2022/2/3 18:53
- * @File: basic_5查找整数.java
+ * @File: basic5_查找整数.java
  * @Software: IntelliJ IDEA
  */
 // http://lx.lanqiao.cn/problem.page?gpid=T9
 
-public class basic_5查找整数 {
+public class basic5_查找整数 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

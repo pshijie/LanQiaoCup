@@ -1,12 +1,12 @@
 /**
  * @author psj
  * @date 2022/2/6 23:17
- * @File: basic_7特殊的数字.java
+ * @File: basic7_特殊的数字.java
  * @Software: IntelliJ IDEA
  */
 // http://lx.lanqiao.cn/problem.page?gpid=T46
 
-public class basic_7特殊的数字 {
+public class basic7_特殊的数字 {
     public static void main(String[] args) {
         for (int i = 100; i <= 999; i++) {
             if (isSpecial(i)){

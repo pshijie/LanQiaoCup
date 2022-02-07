@@ -3,11 +3,11 @@ import java.util.Scanner;
 /**
  * @author psj
  * @date 2022/2/3 18:48
- * @File: basic_4数列特征.java
+ * @File: basic4_数列特征.java
  * @Software: IntelliJ IDEA
  */
 // http://lx.lanqiao.cn/problem.page?gpid=T8
-public class basic_4数列特征 {
+public class basic4_数列特征 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

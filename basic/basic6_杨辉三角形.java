@@ -3,12 +3,12 @@ import java.util.Scanner;
 /**
  * @author psj
  * @date 2022/2/3 18:57
- * @File: basic_6杨辉三角形.java
+ * @File: basic6_杨辉三角形.java
  * @Software: IntelliJ IDEA
  */
 // http://lx.lanqiao.cn/problem.page?gpid=T10
 
-public class basic_6杨辉三角形 {
+public class basic6_杨辉三角形 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
